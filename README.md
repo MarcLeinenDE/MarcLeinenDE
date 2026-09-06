@@ -24,4 +24,5 @@ Or, more accurately:
 
 👉 [Buy me a coffee / support my nerves via PayPal](https://www.paypal.me/ccaa/)
 
-There is absolutely no obligation. Using the projects, reporting useful findings, contributing improvements, or simply leaving a ⭐ is already appreciated.
+There is absolutely no obligation.
+Using the projects, reporting useful findings, contributing improvements, or simply leaving a ⭐ is already appreciated.
