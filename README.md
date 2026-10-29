@@ -6,9 +6,10 @@ A few of my spare-time projects are published here as free and open-source softw
 
 ## 🔧 Projects
 
-- **W1 NFC Reader** — Android NFC reader for compatible Axioma Qalcosonic W1 water meters
-- **nr2301-api** — independently reverse-engineered reference for the Zyxel NR2301 local API
-- **nr2301-python** — Python SDK built on top of that API research
+- [**W1 NFC Reader**](https://github.com/MarcLeinenDE/w1-nfc-reader) — Android NFC reader for compatible Axioma Qalcosonic W1 water meters
+- [**nr2301-api**](https://github.com/MarcLeinenDE/nr2301-api) — independently reverse-engineered reference for the Zyxel NR2301 local API
+- [**nr2301-python**](https://github.com/MarcLeinenDE/nr2301-python) — Python SDK built on top of that API research
+- [**Paperless-ngx Mail Header**](https://github.com/MarcLeinenDE/paperless-ngx-mail-header) — parser extension adding sender, recipient, date and subject above HTML email content in Paperless-ngx PDFs
 
 More experiments and projects may appear whenever curiosity wins against common sense.
 
